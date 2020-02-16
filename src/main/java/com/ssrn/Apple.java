@@ -1,8 +1,7 @@
 package com.ssrn;
 
 public class Apple {
-	private void psvm() {
-		// TODO Auto-generated method stub
-		System.out.println("hahdddddha");
+	public static void main(String[] args) {
+		System.out.println("aaaa");
 	}
 }
